@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/TvMovie/static/css/main.21a454ca.chunk.css",
-    "main.js": "/TvMovie/static/js/main.8adb0e6d.chunk.js",
-    "main.js.map": "/TvMovie/static/js/main.8adb0e6d.chunk.js.map",
+    "main.js": "/TvMovie/static/js/main.c6f6b26b.chunk.js",
+    "main.js.map": "/TvMovie/static/js/main.c6f6b26b.chunk.js.map",
     "runtime-main.js": "/TvMovie/static/js/runtime-main.23afcca3.js",
     "runtime-main.js.map": "/TvMovie/static/js/runtime-main.23afcca3.js.map",
-    "static/js/2.94f36b58.chunk.js": "/TvMovie/static/js/2.94f36b58.chunk.js",
-    "static/js/2.94f36b58.chunk.js.map": "/TvMovie/static/js/2.94f36b58.chunk.js.map",
+    "static/js/2.d088055f.chunk.js": "/TvMovie/static/js/2.d088055f.chunk.js",
+    "static/js/2.d088055f.chunk.js.map": "/TvMovie/static/js/2.d088055f.chunk.js.map",
     "index.html": "/TvMovie/index.html",
     "static/css/main.21a454ca.chunk.css.map": "/TvMovie/static/css/main.21a454ca.chunk.css.map",
-    "static/js/2.94f36b58.chunk.js.LICENSE.txt": "/TvMovie/static/js/2.94f36b58.chunk.js.LICENSE.txt"
+    "static/js/2.d088055f.chunk.js.LICENSE.txt": "/TvMovie/static/js/2.d088055f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23afcca3.js",
-    "static/js/2.94f36b58.chunk.js",
+    "static/js/2.d088055f.chunk.js",
     "static/css/main.21a454ca.chunk.css",
-    "static/js/main.8adb0e6d.chunk.js"
+    "static/js/main.c6f6b26b.chunk.js"
   ]
 }
