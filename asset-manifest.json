@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.21a454ca.chunk.css",
-    "main.js": "/static/js/main.8b407e16.chunk.js",
-    "main.js.map": "/static/js/main.8b407e16.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90ae1343.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90ae1343.js.map",
-    "static/js/2.94f36b58.chunk.js": "/static/js/2.94f36b58.chunk.js",
-    "static/js/2.94f36b58.chunk.js.map": "/static/js/2.94f36b58.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.21a454ca.chunk.css.map": "/static/css/main.21a454ca.chunk.css.map",
-    "static/js/2.94f36b58.chunk.js.LICENSE.txt": "/static/js/2.94f36b58.chunk.js.LICENSE.txt"
+    "main.css": "/TvMovie/static/css/main.21a454ca.chunk.css",
+    "main.js": "/TvMovie/static/js/main.2bcd3ced.chunk.js",
+    "main.js.map": "/TvMovie/static/js/main.2bcd3ced.chunk.js.map",
+    "runtime-main.js": "/TvMovie/static/js/runtime-main.23afcca3.js",
+    "runtime-main.js.map": "/TvMovie/static/js/runtime-main.23afcca3.js.map",
+    "static/js/2.94f36b58.chunk.js": "/TvMovie/static/js/2.94f36b58.chunk.js",
+    "static/js/2.94f36b58.chunk.js.map": "/TvMovie/static/js/2.94f36b58.chunk.js.map",
+    "index.html": "/TvMovie/index.html",
+    "static/css/main.21a454ca.chunk.css.map": "/TvMovie/static/css/main.21a454ca.chunk.css.map",
+    "static/js/2.94f36b58.chunk.js.LICENSE.txt": "/TvMovie/static/js/2.94f36b58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90ae1343.js",
+    "static/js/runtime-main.23afcca3.js",
     "static/js/2.94f36b58.chunk.js",
     "static/css/main.21a454ca.chunk.css",
-    "static/js/main.8b407e16.chunk.js"
+    "static/js/main.2bcd3ced.chunk.js"
   ]
 }
